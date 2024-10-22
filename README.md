@@ -1,6 +1,5 @@
 # WhatsApp-Chat-Analyser
-How it looks
-https://github.com/user-attachments/assets/0b5b2143-daa6-430d-9532-53ed390a216d
+[https://github.com/user-attachments/assets/0b5b2143-daa6-430d-9532-53ed390a216d](https://github.com/user-attachments/assets/c55ab4ec-a06d-4072-b7a8-1f07f199cab1)
 ## Overview
 The WhatsApp Chat Analyzer is a Python tool designed to extract insights from your WhatsApp chat data. Analyze messaging patterns, visualize engagement, and explore your chat history with ease!
 ## Features
